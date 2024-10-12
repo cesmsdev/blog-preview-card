@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    --primary-bg: hsl(47, 88%, 63%);
+    --secondary-bg: hsl(0, 0%, 100%);
+
+    --text-color: hsl(0, 0%, 42%);
+    --text-color-secondary: hsl(0, 0%, 7%);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--primary-bg);
+    font-family: "Figtree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.card {
+    width: 19rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secondary-bg);
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 0.5rem .5rem var(--text-color-secondary);
+}
+
+.card-image img {
+    width: 100%;
+    border-radius: .5rem;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 1rem;
+    row-gap: .75rem;
+}
+
+.card-content .card-category {
+    background-color: var(--primary-bg);
+    width: fit-content;
+    padding: .25rem .5rem;
+    font-size: .75rem;
+    font-weight: 800;
+    border-radius: .25rem;
+}
+
+.card-content .card-date {
+    font-size: .75rem;
+    font-weight: 600;
+}
+
+.card-content .card-title {
+    font-size: 1.25rem;
+    font-weight: 800;
+}
+
+.card-content .card-text {
+    font-size: .9rem;
+    font-weight: 400;
+    color: var(--text-color);
+}
+
+.card-content .card-author {
+    display: flex;
+    align-items: center;
+    column-gap: .5rem;
+}
+
+.card-content .card-author img {
+    width: 1.75rem;
+    border-radius: 50%;
+}
+
+.card-content .card-author p {
+    font-size: .75rem;
+    font-weight: 700;
+}
