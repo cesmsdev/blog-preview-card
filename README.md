@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/cesmsdev/blog-preview-cardm)
+- Solution URL: [GitHub](https://github.com/cesmsdev/blog-preview-card)
 - Live Site URL: [Vercel](https://blog-preview-card-two-xi.vercel.app)
 
 ## My process
