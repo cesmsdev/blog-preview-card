@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/cesmsdev/blog-preview-cardm)
+- Live Site URL: [Vercel](https://blog-preview-card-two-xi.vercel.app)
 
 ## My process
 
@@ -42,6 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@cesmsdev](https://www.frontendmentor.io/profile/cesmsdev)
+- Twitter - [@CesarMen_San](https://x.com/CesarMen_San)
+- Instagram - [@cesar_msan](https://www.instagram.com/cesar_msan/)
